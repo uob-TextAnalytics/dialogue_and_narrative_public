@@ -1,0 +1,16 @@
+name: dialogue_and_narrative
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python = 3.10
+  - jupyter
+  - jupyterlab
+  - datasets
+  - nltk
+  - transformers
+  - scikit-learn
+  - gensim
+  - ipympl
+  - ipywidgets
+  - matplotlib
