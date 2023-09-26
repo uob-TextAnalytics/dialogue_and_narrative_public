@@ -1,3 +1,9 @@
+# dialogue_and_narrative_private
+
+Repository containing the lab sheets and answers.
+
+Use the script make_public_nb.py to make a version of the notebook without answers.
+
 # Setup
 
 
